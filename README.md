@@ -38,7 +38,6 @@ This is our temporary goal, and some improvements may be made in the future.
 
 - MERN stack:
   - MongoDB
-  - Express.JS
   - React.JS
   - Node.JS
 
