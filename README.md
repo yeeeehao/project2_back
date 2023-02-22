@@ -36,10 +36,9 @@ This is our temporary goal, and some improvements may be made in the future.
 
 ## Technology
 
-- MERN stack:
+- Stack:
   - MongoDB
-  - React.JS
-  - Node.JS
+  - Next.JS
 
 - Libraries:
   - Bootstrap 
